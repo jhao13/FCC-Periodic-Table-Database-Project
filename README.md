@@ -1,4 +1,4 @@
-# 💻 FCC-Periodic-Table-Database-Project
+# 💻 Project: Periodic Table Database
 FreeCodeCamp project: Creating a Bash script to get information about chemical elements from a periodic table database
 
 ## Project Goal
