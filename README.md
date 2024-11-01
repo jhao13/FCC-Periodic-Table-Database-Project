@@ -10,9 +10,9 @@ Connected to the periodic database provided by FreeCodeCamp, cleaned and fixed m
 <br><br>
 Created a Bash script (version controlled with git) that accepts an argument in the form of an atomic number, symbol, or name of an element and outputs some information about the given element.
 
-View database SQL file: 
+View database SQL file: <a href=https://github.com/jhao13/FCC-Periodic-Table-Database-Project/blob/main/periodic_table.sql>periodic_table.sql</a>
 <br>
-View bash script: elements.sh
+View bash script: <a href="https://github.com/jhao13/FCC-Periodic-Table-Database-Project/blob/main/element.sh">elements.sh</a>
 
 ## FreeCodeCamp Porject Instructions
 
