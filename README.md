@@ -7,9 +7,11 @@ Project made as part of the FreeCodeCamp Relational Databases Beta Certificate c
 
 ## Process
 Connected to the periodic database provided by FreeCodeCamp, cleaned and fixed mistakes within the database, and added appropriate constraints and inserted extra chemical elements into the database.
+<br><br>
 Created a Bash script (version controlled with git) that accepts an argument in the form of an atomic number, symbol, or name of an element and outputs some information about the given element.
 
 View database SQL file: 
+<br>
 View bash script: elements.sh
 
 ## FreeCodeCamp Porject Instructions
