@@ -3,7 +3,7 @@ FreeCodeCamp project: Creating a Bash script to get information about chemical e
 
 ## Project Goal
 Create a Bash script to get information about chemical elements from a periodic table database.
-Project made as part of the FreeCodeCamp Relational Databases Beta Certificate course
+Project made as part of the FreeCodeCamp Relational Databases Certificate course
 
 ## Process
 Connected to the periodic database provided by FreeCodeCamp, cleaned and fixed mistakes within the database, and added appropriate constraints and inserted extra chemical elements into the database.
