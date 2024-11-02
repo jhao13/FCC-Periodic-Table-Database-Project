@@ -28,6 +28,8 @@ Make a small bash program. The code needs to be version controlled with git, so 
 
 Lastly, make a script that accepts an argument in the form of an atomic number, symbol, or name of an element and outputs some information about the given element.
 
+-----
+
 ### Tasks completed
 
 <ul>
